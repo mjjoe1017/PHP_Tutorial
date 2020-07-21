@@ -1,11 +1,14 @@
 # PHP_Tutorial
-PHP tutorial 
+
+<a name="table-of-contents"></a>
+
+## PHP tutorial 目錄 
 
 
 ## Chapter 01 - PHP & MySQL
-[Chapter 01 - PHP & MySQL] (# Chapter 01 - PHP & MySQL)
 
 ## Chapter 02 - PHP / MySQL operating environment
+[部署](#deploy)
 
 ## Chapter 03 - PHP basic
 
@@ -41,5 +44,16 @@ PHP tutorial
 
 
 
+<a name="deploy"></a>
 
-### Chapter 01 - PHP & MySQL
+## 部署
+
+#### 建置可運作PHP程式的環境，這是非常重要的！
+
+#### PHP 程式必須要在網站伺服器上才能運作，這跟HTML網頁不一樣，HTML網頁可以直接依照網頁檔案來執行瀏覽
+
+> `架設網站伺服器` >  `安裝PHP` > `安裝 MySQL 資料庫`
+
+
+
+**[⬆ 回到頂端](#table-of-contents)**
