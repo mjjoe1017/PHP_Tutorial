@@ -9,7 +9,7 @@
 
 ## Chapter 02 - PHP / MySQL operating environment
 [部署](#deploy)
-
+[安裝XAMPP伺服器](#install_XAMPP)
 
 ## Chapter 03 - PHP basic
 
@@ -58,3 +58,22 @@
 
 **[⬆  回到頂端](#table-of-contents)**
 
+
+
+<a name="install_XAMPP"></a>
+
+## 安裝XAMPP伺服器、環境設定
+
+#### [下載XAMPP](https://www.apachefriends.org/zh_tw/download.html)
+
+#### 安裝XAMPP
+
+#### 啟動XAMPP面板
+> `開啟XAMPP面板` > Strat All
+![XAMPP面板](https://github.com/mjjoe1017/PHP_Tutorial/blob/master/images/XAMPP_Control_Panel.png)
+
+#### Apache 伺服器設定
+#### PHP 環境設定
+#### MySQL 安全設定
+#### VScode 安裝設定
+**[⬆  回到頂端](#table-of-contents)**
