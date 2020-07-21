@@ -15,6 +15,8 @@
 ## Chapter 03 - PHP basic
 [PHP標籤](#tag)
 
+[PHP語法規定](#provision)
+
 
 ## Chapter 04 - PHP flow control
 
@@ -86,6 +88,8 @@
 
 ## PHP標籤
 
+> PHP 程式碼需要有起始標籤和結束標籤，如下：
+
 ```php
 
     <?php
@@ -99,3 +103,42 @@
 ```
 **[⬆  回到頂端](#table-of-contents)**
 
+<a name="provision"></a>
+
+## PHP 語法規定
+
+### PHP 程式碼英文大小寫代表不同的變數或常數
+
+```php
+
+    // good
+    $myVar
+
+    // bed
+    $myvar
+
+```
+
+### PHP 結尾分號
+
+```php
+    // good
+    <?php echo "Hello"; ?>
+
+    // bed
+    <?php echo "Hello" ?>
+```
+
+### PHP 註解符號
+
+```php
+    <?php 
+        // 我是註解
+
+        /*
+            這裡面的文字
+            也是註解
+        */
+    ?>
+```
+**[⬆  回到頂端](#table-of-contents)**
