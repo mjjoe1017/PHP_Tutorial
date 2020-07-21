@@ -13,6 +13,8 @@
 [安裝XAMPP伺服器](#install_XAMPP)
 
 ## Chapter 03 - PHP basic
+[PHP標籤](#tag)
+
 
 ## Chapter 04 - PHP flow control
 
@@ -78,3 +80,22 @@
 #### MySQL 安全設定
 #### VScode 安裝設定
 **[⬆  回到頂端](#table-of-contents)**
+
+
+<a name="tag"></a>
+
+## PHP標籤
+
+```php
+
+    <?php
+        //code
+    ?>
+
+    <?
+        //code
+    ?>
+
+```
+**[⬆  回到頂端](#table-of-contents)**
+
