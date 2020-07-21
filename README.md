@@ -10,6 +10,7 @@
 ## Chapter 02 - PHP / MySQL operating environment
 [部署](#deploy)
 
+
 ## Chapter 03 - PHP basic
 
 ## Chapter 04 - PHP flow control
@@ -52,8 +53,8 @@
 
 #### PHP 程式必須要在網站伺服器上才能運作，這跟HTML網頁不一樣，HTML網頁可以直接依照網頁檔案來執行瀏覽
 
+#### 建置PHP流程：
 > `架設網站伺服器` >  `安裝PHP` > `安裝 MySQL 資料庫`
 
+**[⬆  回到頂端](#table-of-contents)**
 
-
-**[⬆ 回到頂端](#table-of-contents)**
